@@ -1,6 +1,9 @@
-## Make sure to add your Youtube API key in the APIcall.js file
-
+## Make sure to add your Youtube API key
 You can create a project on console.developers.google.com and then enable the youtube v3 API. 
+
+This is the sample project to demonstrate the basics of React with API call. It show how to fetch the data and communicate through the components from parent to child and child to parent. 
+
+It will also render a slight look of youtube as well. Go give it a try.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
